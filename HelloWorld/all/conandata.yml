@@ -1,0 +1,4 @@
+sources:
+  0.0.1:
+    sha256: 04d076dfd1e41bac683afa1bb9ca5a2760b9cb98f286e7647cc000c5e569a6c2
+    url: https://github.com/lambtonr/conan_library/archive/refs/tags/0.0.1.tar.gz
